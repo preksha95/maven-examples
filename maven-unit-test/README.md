@@ -12,3 +12,4 @@ $ mvn test
 $ mvn -Dtest=TestMessageBuilder test
 $ mvn -Dtest=TestMessageBuilder#testHelloWorld test
 ```
+Adding new line
